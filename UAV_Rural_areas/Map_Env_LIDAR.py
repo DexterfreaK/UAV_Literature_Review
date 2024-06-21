@@ -1,3 +1,5 @@
+# written by Harshit Nagpal
+
 import numpy as np
 from map_disc import discretize_map  # Assuming this function exists in map_disc.py
 
